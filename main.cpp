@@ -3,8 +3,7 @@
 #include <fstream>
 #include <vector>
 #include <map>
-
-#define VERSION 1.0
+#include <regex>
 
 using namespace std;
 
